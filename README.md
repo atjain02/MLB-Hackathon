@@ -15,9 +15,6 @@
 ## How to use
 
 1. **Clone the Repo**  
-   ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
 
 2. **Install Depdencies**
    Install Python3.7+ and the required libraries
